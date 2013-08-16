@@ -1,4 +1,4 @@
-public class Problem4{
+public class Problem004{
 	public static void main(String[] args){
 		int i, j, target, answer = 0;
 		String s, rev;
